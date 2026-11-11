@@ -1,0 +1,27 @@
+# Site settings
+title: "Your Name"
+description: "Personal academic profile built from the group starter kit."
+url: "https://example.github.io"
+baseurl: ""
+repository: "knobbyintens/academic-profile-starter-5790"
+
+# Author / site owner block
+author:
+  name: "Your Name"
+  avatar: "/assets/images/profile.png"
+  bio: "Researcher at Example University."
+  email: "you@example.org"
+  github: "your-handle"
+  location: "Example University"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+plugins:
+  - jekyll-sitemap
+include:
+  - _pages
+collections:
+  pages:
+    output: true
+    permalink: /:path/
