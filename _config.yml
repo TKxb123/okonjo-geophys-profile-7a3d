@@ -1,18 +1,18 @@
 # Site settings
-title: "Your Name"
+title: "Nerissa Okonjo-Bailey"
 description: "Personal academic profile built from the group starter kit."
-url: "https://example.github.io"
-baseurl: ""
-repository: "knobbyintens/academic-profile-starter-5790"
+url: "https://knobbyintens.github.io"
+baseurl: "/okonjo-geophys-profile-7a3d"
+repository: "knobbyintens/okonjo-geophys-profile-7a3d"
 
 # Author / site owner block
 author:
-  name: "Your Name"
+  name: "Nerissa Okonjo-Bailey"
   avatar: "/assets/images/profile.png"
-  bio: "Researcher at Example University."
-  email: "you@example.org"
-  github: "your-handle"
-  location: "Example University"
+  bio: "PhD Candidate (ABD) in Geophysics"
+  email: "n.okonjo-bailey@wrayburn.edu"
+  github: "github.com/nokonjob"
+  location: "Bellhaven Institute of Geophysics"
 
 # Build settings
 markdown: kramdown
