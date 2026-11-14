@@ -37,7 +37,10 @@ title: "Home"
 
 ## Key achievements
 
-Her selected publications are listed below.
+- **Ambient-Noise Tomography of the Cascadia Forearc** — lead author — Journal of Geophysical Research: Solid Earth (2024)
+- **Microseismic Signatures of Slow Slip Along the Mendocino Triple Junction** — co-author — Geophysical Research Letters (2023)
+- **Physics-Informed Neural Networks for Denoising Dense Arrays** — lead author — Seismological Research Letters (2025)
+- **Fiber-Optic Strain Sensing in Urban Sedimentary Basins** — co-author — Nature Geoscience (2025)
 
 ## Selected publications
 
