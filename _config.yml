@@ -1,6 +1,6 @@
 # Site settings
 title: "Nerissa Okonjo-Bailey"
-description: "Personal academic profile built from the group starter kit."
+description: "Personal academic profile for Dr. Nerissa Okonjo-Bailey."
 url: "https://knobbyintens.github.io"
 baseurl: "/okonjo-geophys-profile-7a3d"
 repository: "knobbyintens/okonjo-geophys-profile-7a3d"
@@ -12,6 +12,7 @@ author:
   bio: "PhD Candidate (ABD) in Geophysics"
   email: "n.okonjo-bailey@wrayburn.edu"
   github: "github.com/nokonjob"
+  github_handle: "nokonjob"
   location: "Bellhaven Institute of Geophysics"
 
 # Build settings

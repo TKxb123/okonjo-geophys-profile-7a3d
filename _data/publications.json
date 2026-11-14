@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Ambient-Noise Tomography of the Cascadia Forearc",
+    "venue": "Journal of Geophysical Research: Solid Earth",
+    "year": 2024,
+    "role": "lead author",
+    "peer_reviewed": true,
+    "featured": true
+  },
+  {
+    "title": "Microseismic Signatures of Slow Slip Along the Mendocino Triple Junction",
+    "venue": "Geophysical Research Letters",
+    "year": 2023,
+    "role": "co-author",
+    "peer_reviewed": true,
+    "featured": true
+  },
+  {
+    "title": "Physics-Informed Neural Networks for Denoising Dense Arrays",
+    "venue": "Seismological Research Letters",
+    "year": 2025,
+    "role": "lead author",
+    "peer_reviewed": true,
+    "featured": true
+  },
+  {
+    "title": "Toward Rapid Magnitude Estimation from Regional Waveforms",
+    "venue": "Bulletin of the Seismological Society of America",
+    "year": 2022,
+    "role": "second author",
+    "peer_reviewed": true,
+    "featured": false
+  },
+  {
+    "title": "A Community Benchmark for Ambient-Noise Cross-Correlation",
+    "venue": "EarthArXiv preprint",
+    "year": 2021,
+    "role": "contributing author",
+    "peer_reviewed": false,
+    "featured": false
+  },
+  {
+    "title": "Fiber-Optic Strain Sensing in Urban Sedimentary Basins",
+    "venue": "Nature Geoscience",
+    "year": 2025,
+    "role": "co-author",
+    "peer_reviewed": true,
+    "featured": true
+  }
+]

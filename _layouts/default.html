@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
   </head>
   <body>
     <header>
@@ -18,5 +19,8 @@
     <main>
       {{ content }}
     </main>
+    <footer>
+      <p>{{ site.author.name }} — {{ site.author.email }}</p>
+    </footer>
   </body>
 </html>
