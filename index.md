@@ -11,6 +11,8 @@ title: "Home"
 - **Full name:** Nerissa Okonjo-Bailey
 - **Current status:** PhD Candidate (ABD) in Geophysics
 - **Current affiliation:** Department of Earth and Planetary Sciences, Bellhaven Institute of Geophysics
+- **Department:** Department of Earth and Planetary Sciences
+- **Institute:** Bellhaven Institute of Geophysics
 - **Prior institution:** Creston College of Mines
 
 ## Research topics
