@@ -4,6 +4,7 @@ import sys
 
 import yaml
 
+
 def main():
     with open("_config.yml", "r", encoding="utf-8") as fh:
         cfg = yaml.safe_load(fh) or {}
