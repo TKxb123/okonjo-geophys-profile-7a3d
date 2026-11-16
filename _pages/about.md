@@ -6,6 +6,8 @@ permalink: /about/
 
 # About Dr. Nerissa Okonjo-Bailey
 
+## Profile
+
 - **Full name:** Nerissa Okonjo-Bailey
 - **Current status:** PhD Candidate (ABD) in Geophysics
 - **Department:** Department of Earth and Planetary Sciences
@@ -27,3 +29,18 @@ permalink: /about/
 
 - Dr. Halina Voss
 - Dr. Emeka Tulloch
+
+## Contact
+
+- **Email:** n.okonjo-bailey@wrayburn.edu
+- **GitHub:** github.com/nokonjob
+- **ORCID:** orcid.org/0000-0002-7710-3384
+
+## Notable works
+
+1. **Ambient-Noise Tomography of the Cascadia Forearc** — Journal of Geophysical Research: Solid Earth (2024); lead author
+2. **Microseismic Signatures of Slow Slip Along the Mendocino Triple Junction** — Geophysical Research Letters (2023); co-author
+3. **Physics-Informed Neural Networks for Denoising Dense Arrays** — Seismological Research Letters (2025); lead author
+4. **Toward Rapid Magnitude Estimation from Regional Waveforms** — Bulletin of the Seismological Society of America (2022); second author
+5. **A Community Benchmark for Ambient-Noise Cross-Correlation** — EarthArXiv preprint (2021); contributing author
+6. **Fiber-Optic Strain Sensing in Urban Sedimentary Basins** — Nature Geoscience (2025); co-author
